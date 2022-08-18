@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "th.co.ghball.commonmicroservice"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "commonMicroservice",
+    "packageName": "th.co.ghball.commonmicroservice",
+    "packageFolder": "th/co/ghball/commonmicroservice",
+    "serverPort": "8004",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTg3ZmE3ZWY1YWY3NmY5OTJiZTBhZmJmMmFiY2Y5OTUzNDMyMDQyMTVmZWI3ZTNiZmZjZjNkMWQzMzI2NGU2NTFkZTE5ZmZmZmM5NjFkN2JjMjZkYzRjOTBkZjhmNGMwYTFjMTA2ODZmNTFkMzYzOTZjYzc5YzQzOGMxZWVlY2M=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1596528270925,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1596528844000
+  }
+}
